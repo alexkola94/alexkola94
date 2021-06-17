@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alex
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Web development at Udemy
-- 💞️ I’m looking to collaborate on Web development insdustry
+- 💞️ I’m looking to collaborate on Web development industry
 - 📫 How to reach me https://alexkola94.github.io/MySiteCv/
 
 <!---
