@@ -1,25 +1,25 @@
-Alex
+# Alex
 Developer and indie builder. I build products, run them on my own infrastructure, and automate everything around them.
 
-What I build
-Paire — my main product: a shared space for partners — bills, accounts, and day-to-day life in one place. → app.thepaire.org
+## What I build
+- **Paire** — A shared space for partners to manage bills, accounts, and day-to-day life. Live: [app.thepaire.org](https://app.thepaire.org)  
+- **Vaire** — Couples travel planner and offline-first PWA with maps and shared itineraries. Live: [vaire.thepaire.org](https://vaire.thepaire.org)  
+- **Argus** — Weekly AI news engine: collects, summarizes, and translates AI news into Greek; publishes automatically (RSS + JSON). Live: [ai.generalsvc.com](https://ai.generalsvc.com)  
+- **toolbout** — Fact-checked comparison site for AI tools. Live: [toolbout.com](https://toolbout.com)  
+- **BrewRadar** — Coffee machine research, reports, and buying guides. Live: [brewradar.org](https://brewradar.org)
 
-Vaire — a couples travel planner and companion to Paire; offline-first PWA with maps and shared itineraries. → vaire.thepaire.org
+## How I work
+- Automation first — an autonomous agent operates my VPS: deploys, monitors, maintains, and fixes. I build the product; the agent runs the ops.  
+- Verify outcomes, not actions — a green deploy ≠ a live feature; I check that the intended thing actually happened.  
+- Fact-gated content — claims are verified against live sources before publishing. Trust is the conversion engine.  
+- Product-driven — no demo-ware. Things that run, earn, and compound.
 
-Argus — a weekly AI news engine: collects, summarizes, and translates AI news into Greek, then publishes it automatically every Sunday (RSS + JSON). → ai.generalsvc.com
-
-toolbout — a fact-checked comparison site for AI tools. → toolbout.com
-
-BrewRadar — coffee machine failure research: reports, buying guides, and honest content around a real household problem. → brewradar.org
-
-How I work
-Automation first — an autonomous AI agent operates my VPS: deploys, monitors, maintains, and fixes. I write the product; the agent runs the ops.
-Verify outcomes, not actions — a green deploy is not a live feature. A delivered event is not an adopted change. I check that the intended thing actually happened.
-Fact-gated content — every claim on my sites is verified against a live source before it ships. Trust is the conversion engine.
-Product-driven — no demo-ware. Things that run, earn, and compound.
-
-Stack
+## Stack
 .NET / C# · Python · React · Docker · PostgreSQL · SQLite · nginx / Caddy · systemd · LLM APIs · RAG · Git / CI
+
+## Contact & links
+- GitHub: [alexkola94](https://github.com/alexkola94)  
+- Projects / Demos: see the links above for live sites and feeds (Argus provides RSS/JSON).
 
 ---
 
