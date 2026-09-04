@@ -3,9 +3,13 @@ Developer and indie builder. I build products, run them on my own infrastructure
 
 What I build
 Paire — my main product: a shared space for partners — bills, accounts, and day-to-day life in one place. → app.thepaire.org
+
 Vaire — a couples travel planner and companion to Paire; offline-first PWA with maps and shared itineraries. → vaire.thepaire.org
+
 Argus — a weekly AI news engine: collects, summarizes, and translates AI news into Greek, then publishes it automatically every Sunday (RSS + JSON). → ai.generalsvc.com
+
 toolbout — a fact-checked comparison site for AI tools. → toolbout.com
+
 BrewRadar — coffee machine failure research: reports, buying guides, and honest content around a real household problem. → brewradar.org
 
 How I work
