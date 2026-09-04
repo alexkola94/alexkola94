@@ -1,25 +1,22 @@
-# Hi there, I'm Alex! 👋
+Alex
+Developer and indie builder. I build products, run them on my own infrastructure, and automate everything around them.
 
-I'm a passionate **Web Developer** based in Athens, Greece, with a deep love for building responsive web applications and exploring the latest in computer hardware.
+What I build
+Paire — my main product: a shared space for partners — bills, accounts, and day-to-day life in one place. → app.thepaire.org
+Vaire — a couples travel planner and companion to Paire; offline-first PWA with maps and shared itineraries. → vaire.thepaire.org
+Argus — a weekly AI news engine: collects, summarizes, and translates AI news into Greek, then publishes it automatically every Sunday (RSS + JSON). → ai.generalsvc.com
+toolbout — a fact-checked comparison site for AI tools. → toolbout.com
+BrewRadar — coffee machine failure research: reports, buying guides, and honest content around a real household problem. → brewradar.org
 
-### 🛠️ What I'm working on
-- 🔭 I’m currently focused on sharpening my skills in **Frontend Development**.
-- 🌱 Learning advanced Web Development through **Udemy** and hands-on projects.
-- 💻 Building and optimizing my [Personal Portfolio](https://alexkola94.github.io/MySiteCv/).
-- ⚡ Fun fact: I love tinkering with computer hardware as much as I love writing code!
+How I work
+Automation first — an autonomous AI agent operates my VPS: deploys, monitors, maintains, and fixes. I write the product; the agent runs the ops.
+Verify outcomes, not actions — a green deploy is not a live feature. A delivered event is not an adopted change. I check that the intended thing actually happened.
+Fact-gated content — every claim on my sites is verified against a live source before it ships. Trust is the conversion engine.
+Product-driven — no demo-ware. Things that run, earn, and compound.
 
-### 🔧 Tech Stack & Tools
-- **Languages:** HTML5, CSS3, JavaScript (ES6+)
-- **Tools & Frameworks:** Git, GitHub, VS Code, Responsive Design
-- **Interests:** Hardware Optimization, Web Performance, UI/UX Design
-
-### 📂 Featured Projects
-- **[MySiteCv](https://github.com/alexkola94/MySiteCv)**: A clean, professional web-based CV to showcase my journey and skills.
-- **[My_Portfolio](https://github.com/alexkola94/My_Portfolio)**: A dedicated space for my web development experiments and finished projects.
-
-### 📫 Let's Connect!
-- 🌍 Check out my live site: [alexkola94.github.io/MySiteCv/](https://alexkola94.github.io/MySiteCv/)
-- 🤝 I’m looking to collaborate on **Web Development projects** and open-source contributions.
+Stack
+.NET / C# · Python · React · Docker · PostgreSQL · SQLite · nginx / Caddy · systemd · LLM APIs · RAG · Git / CI
 
 ---
-*“I love web development and computer hardware!”*
+
+Χτίζω, αυτοματοποιώ, επαληθεύω.
